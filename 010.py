@@ -148,7 +148,7 @@ def rotate():
 
 def main():
     pygame.init()
-    pygame.display.set_caption("Tetris 009")
+    pygame.display.set_caption("Tetris 010")
     screen = pygame.display.set_mode((tab_x, tab_y))
     clock = pygame.time.Clock()
 
